@@ -1,0 +1,32 @@
+_repo: Die-Forsterbuben-Ein-Roman-aus-den-steirischen-Alpen_67991
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rosegger, Peter
+    aliases:
+    - Rosegger, Petri Kettenfeier
+    - Fels, Gabriel
+    birthdate: 1843
+    deathdate: 1918
+    gutenberg_agent_id: '7090'
+    url: http://www.gutenberg.org/2009/agents/7090
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Peter_Rosegger
+    - https://en.wikipedia.org/wiki/Peter_Rosegger
+description: ''
+gutenberg_issued: '2022-05-05'
+identifiers:
+  gutenberg: '67991'
+language: de
+pgterms:marc905: 20181104023855rosegger
+pgterms:marc906: '1911'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Ullstein & Co.,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Die Försterbuben: Ein Roman aus den steirischen Alpen'
+url: http://www.gutenberg.org/ebooks/67991
